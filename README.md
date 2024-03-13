@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratham182&label=Profile%20views&color=0e75b6&style=flat" alt="pratham182" /> </p>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratham182&theme=nord&column=1" alt="pratham182" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratham182&theme=nord&column=5&row=1" alt="pratham182" /></a>
 
 - 🌱 I’m currently learning **Mern stack**
 
